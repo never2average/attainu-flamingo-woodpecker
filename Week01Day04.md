@@ -15,11 +15,12 @@ Tasks:
 **CCs:**
 
 Print the following pattern by taking line number as input from the user.
-
-*******
-*** ***
-**   **
-*     *
-**   **
-*** ***
-*******
+```
+aaaaaaa
+aaa aaa
+aa   aa
+a     a
+aa   aa
+aaa aaa
+aaaaaaa
+```
