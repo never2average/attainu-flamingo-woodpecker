@@ -14,4 +14,4 @@ Figure out which major companies use Laravel and why?
 
 **Assignments**
 
-[Couting Sort](https://www.hackerrank.com/challenges/countingsort2)
+[Counting Sort](https://www.hackerrank.com/challenges/countingsort2)
